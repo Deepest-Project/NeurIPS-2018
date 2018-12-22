@@ -1,4 +1,4 @@
-## 장소와 시간
+## 1pm-3pm at ~~
 
 ## Informations 
 best papers or total submission count and acceptance rate.  
