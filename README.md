@@ -3,7 +3,7 @@
 total submisstion : 4,854  
 acceptance rate : 21%  
 
-best papers (from [here](https://syncedreview.com/2018/12/03/neurips-2018-opens-best-papers-announced/))
+best papers ([reference](https://syncedreview.com/2018/12/03/neurips-2018-opens-best-papers-announced/))
 - Non-Delusional Q-Learning and Value-Iteration from researchers at Google AI: The paper first identified a fundamental problem in Q-learning, “delusional bias”, and demonstrated its detrimental consequences; then proposed a new policy-consistent backup operator that can fully resolve the problem of delusion. Click the link to read the full paper.
 
 - Optimal Algorithms for Non-Smooth Distributed Optimization in Networks from researchers at Huawei Noah’s Ark Lab, Microsoft Research, MSR-INRIA Joint Centre, PSL Research University, and University of Washington. The paper studied the distributed optimization of non-smooth convex functions and proposed two algorithms to solve the problem — multi-step primal-dual (MSPD) and distributed randomized smoothing (DRS). Click the link to read the full paper.
