@@ -1,6 +1,4 @@
-## 1pm-3pm at ~~
-
-link : [paper list](https://nips.cc/Conferences/2018/Schedule?type=Poster)
+Link : [paper list](https://nips.cc/Conferences/2018/Schedule?type=Poster)
 
 total submisstion : 4,854  
 acceptance rate : 21%  
